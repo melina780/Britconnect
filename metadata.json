@@ -1,0 +1,6 @@
+{
+  "name": "BritConnect AI Churn Intelligence",
+  "description": "Production AI Customer Churn Intelligence Platform for UK telecommunications, featuring client-side ML, predictive retention, explainable AI, and executive analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
